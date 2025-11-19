@@ -1,6 +1,6 @@
 opencv-python
 numpy
-fer
+fer==22.4.0
 matplotlib
 streamlit
 Pillow
