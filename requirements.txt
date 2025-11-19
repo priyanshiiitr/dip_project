@@ -6,3 +6,4 @@ streamlit
 Pillow
 scikit-image
 opencv-contrib-python
+streamlit-webrtc
