@@ -46,3 +46,4 @@ Notes
 
 - The scaffold uses the `fer` package if available. If you prefer a different model (PyTorch/TensorFlow), replace `src/classifier.py` with your model wrapper.
 - This is a minimal starter; adjust thresholds, pre/post-processing, and model selection for production use.
+- MIT License
